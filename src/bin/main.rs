@@ -138,7 +138,7 @@ fn handle_add_user(stream: &mut TcpStream, users: &mut HashMap<String, String>, 
   users.insert(username.to_string(), password.to_string());
 
   let response = "HTTP/1.1 200 OK\r\n\r\nUser Added Successfully!";
-  stream.write(response.as_bytes()).unwrap();
+  stream.write(response.as_bytes()).unwrap() ;
   stream.flush().unwrap();
 }
 }
