@@ -1,0 +1,10 @@
+C:\Users\pedro.LAPTOP-MJDAOC0B\server\target\debug\deps\liblock_api-fce93301b6778a88.rmeta: C:\Users\pedro.LAPTOP-MJDAOC0B\.cargo\registry\src\index.crates.io-6f17d22bba15001f\lock_api-0.4.11\src\lib.rs C:\Users\pedro.LAPTOP-MJDAOC0B\.cargo\registry\src\index.crates.io-6f17d22bba15001f\lock_api-0.4.11\src\mutex.rs C:\Users\pedro.LAPTOP-MJDAOC0B\.cargo\registry\src\index.crates.io-6f17d22bba15001f\lock_api-0.4.11\src\remutex.rs C:\Users\pedro.LAPTOP-MJDAOC0B\.cargo\registry\src\index.crates.io-6f17d22bba15001f\lock_api-0.4.11\src\rwlock.rs
+
+C:\Users\pedro.LAPTOP-MJDAOC0B\server\target\debug\deps\liblock_api-fce93301b6778a88.rlib: C:\Users\pedro.LAPTOP-MJDAOC0B\.cargo\registry\src\index.crates.io-6f17d22bba15001f\lock_api-0.4.11\src\lib.rs C:\Users\pedro.LAPTOP-MJDAOC0B\.cargo\registry\src\index.crates.io-6f17d22bba15001f\lock_api-0.4.11\src\mutex.rs C:\Users\pedro.LAPTOP-MJDAOC0B\.cargo\registry\src\index.crates.io-6f17d22bba15001f\lock_api-0.4.11\src\remutex.rs C:\Users\pedro.LAPTOP-MJDAOC0B\.cargo\registry\src\index.crates.io-6f17d22bba15001f\lock_api-0.4.11\src\rwlock.rs
+
+C:\Users\pedro.LAPTOP-MJDAOC0B\server\target\debug\deps\lock_api-fce93301b6778a88.d: C:\Users\pedro.LAPTOP-MJDAOC0B\.cargo\registry\src\index.crates.io-6f17d22bba15001f\lock_api-0.4.11\src\lib.rs C:\Users\pedro.LAPTOP-MJDAOC0B\.cargo\registry\src\index.crates.io-6f17d22bba15001f\lock_api-0.4.11\src\mutex.rs C:\Users\pedro.LAPTOP-MJDAOC0B\.cargo\registry\src\index.crates.io-6f17d22bba15001f\lock_api-0.4.11\src\remutex.rs C:\Users\pedro.LAPTOP-MJDAOC0B\.cargo\registry\src\index.crates.io-6f17d22bba15001f\lock_api-0.4.11\src\rwlock.rs
+
+C:\Users\pedro.LAPTOP-MJDAOC0B\.cargo\registry\src\index.crates.io-6f17d22bba15001f\lock_api-0.4.11\src\lib.rs:
+C:\Users\pedro.LAPTOP-MJDAOC0B\.cargo\registry\src\index.crates.io-6f17d22bba15001f\lock_api-0.4.11\src\mutex.rs:
+C:\Users\pedro.LAPTOP-MJDAOC0B\.cargo\registry\src\index.crates.io-6f17d22bba15001f\lock_api-0.4.11\src\remutex.rs:
+C:\Users\pedro.LAPTOP-MJDAOC0B\.cargo\registry\src\index.crates.io-6f17d22bba15001f\lock_api-0.4.11\src\rwlock.rs:
