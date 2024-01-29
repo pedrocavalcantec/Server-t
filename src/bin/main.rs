@@ -128,7 +128,7 @@ fn handle_add_user(stream: &mut TcpStream, users: &mut HashMap<String, String>, 
               if pair.len() == 2 {
                   let key = pair[0];
                   let value = pair[1];
-                  println!("{}: {}", key, value); 
+                  println!("{}: {}", key, value) ;
               }
           }
       }
